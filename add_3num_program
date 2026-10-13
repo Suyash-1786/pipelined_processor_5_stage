@@ -1,0 +1,12 @@
+tb_add_3num:tb_add_3num
+	mips:pipelined_processor_5stage
+		Process #ASSIGN#28
+		Process #ASSIGN#29
+		Process #ALWAYS#32
+		Process #ALWAYS#49
+		Process #ALWAYS#75
+		Process #ALWAYS#118
+		Process #ALWAYS#134
+	Process #INITIAL#7
+	Process #INITIAL#38
+Capacity #vsim_capacity#
